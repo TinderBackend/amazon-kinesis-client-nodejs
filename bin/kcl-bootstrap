@@ -41,7 +41,7 @@ var MAVEN_PACKAGE_LIST = [
   getMavenPackageInfo('com.google.guava', 'guava', '18.0'),
   getMavenPackageInfo('com.google.protobuf', 'protobuf-java', '2.6.1'),
   getMavenPackageInfo('commons-lang', 'commons-lang', '2.6'),
-  getMavenPackageInfo('com.amazonaws', 'amazon-kinesis-client', '1.6.1'),
+  getMavenPackageInfo('com.amazonaws', 'amazon-kinesis-client', '1.5.1'),
   getMavenPackageInfo('com.fasterxml.jackson.core', 'jackson-core', '2.1.1'),
   getMavenPackageInfo('org.apache.httpcomponents', 'httpclient', '4.2'),
   getMavenPackageInfo('org.apache.httpcomponents', 'httpcore', '4.2'),
